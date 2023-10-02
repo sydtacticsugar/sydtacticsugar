@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/sydtacticsugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sydtacticsugar on dev.to" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syd-syd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sydney on linkedin" height="30" width="40" /></a>
-<a href="https://hachyderm.io/@sydtacticsugar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="sydtacticsugar on the hacyderm mastodon instance" height="30" width="40" /></a>
+<a href="https://hachyderm.io/@sydtacticsugar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="sydtacticsugar on the hachyderm mastodon instance" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
