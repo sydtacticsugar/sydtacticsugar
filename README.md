@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [my portfolio and blog](https://syd-ney.com)
 
-- 🌱 I’m currently learning **C**and **node.js**
+- 🌱 I’m currently learning **C** and **node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
