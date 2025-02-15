@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sydney</h1>
-<h3 align="center">A Technical Support Engineer who's passionate about security, accessibility and web development in my off-time.</h3>
+<h3 align="center">A Technical Support Engineer who's passionate about security, accessibility and web development in my free-time</h3>
 
 - 🔭 I’m currently working on [my portfolio and blog](https://syd-ney.com)
 
